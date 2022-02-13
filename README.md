@@ -9,6 +9,14 @@ I mainly responsible for the project background and hazard identification proces
 
 [Hong Kong Geodata Store](https://geodata.gov.hk/gs/) is a public platform for exploring and downloading open spatial data in support of smart city development in Hong Kong. 
 
+## Dependencies
+
+```shell script
+
+pip3 install flask folium
+```
+
+
 ## Show Cases
 
 ### HKUST collection points
