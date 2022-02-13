@@ -1,5 +1,13 @@
 # ENVS5112_rechargeable_battery
-research project for ENVS5112
+With the rapid development of electric vehicles and consumer products, the demand for lithium-ion batteries has increased dramatically. Thus, we evaluated the environmental impact of rechargeable battery industry in Greater Bay area and focused on hazard identification process, risk assessment and management as well as mitigation and recycling. 
+
+I mainly responsible for the project background and hazard identification process. In addition, a visualization of rechargeable collection points in Hong Kong based on Python and OpenStreetMap is presented.
+## Flowchart
+<p align="center">
+  <img width="712pix" src="images/flowchart.png">
+</p>
+
+[Hong Kong Geodata Store](https://geodata.gov.hk/gs/) is a public platform for exploring and downloading open spatial data in support of smart city development in Hong Kong. 
 
 ## Show Cases
 
