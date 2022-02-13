@@ -19,6 +19,8 @@ pip3 install flask folium
 
 ## Show Cases
 
+http://18.141.185.21:8888, depolyed in AWS and tested in Chrome.
+
 ### HKUST collection points
 
 <p align="center">
